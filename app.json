@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "stoerungsbingo-app",
-    "slug": "stoerungsbingo-app",
+    "name": "Störungs-Bingo",
+    "slug": "storungsbingo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a07ec664-53b8-41e8-beb9-2f8b46867d31"
+      }
+    },
+    "owner": "haizoooon"
   }
 }
